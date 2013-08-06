@@ -5,7 +5,7 @@ A group of starter projects for building platform(s) on the Azure cloud at scale
 
 
 
-#####Public Components
+####Public Components
 
 * **Sahara.Public.WaitingList**
 
@@ -20,8 +20,8 @@ _(A WebApi 2 projects for registering new accounts )_
 _(A web view for Registration )_
 
 
-#####Platform Components
+####Platform Components
 
-#####Account Components
+####Account Components
 
-#####Shared Components
+####Shared Components
