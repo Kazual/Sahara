@@ -1,4 +1,4 @@
-Sahara (comig soon)
+Sahara (coming soon)
 ======
 
 A group of starter projects for building platform(s) on the Azure cloud at scale.
